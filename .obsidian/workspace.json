@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "ea27f0e0bfa15e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d893f6b6f258aab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09a81ad58a254ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Productivity/Prácticas/Cornell example.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cornell example"
+            }
+          },
+          {
+            "id": "9a9863dd623355dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts and quotes/Reflections/What is a professional?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "What is a professional?"
+            }
+          },
+          {
+            "id": "156317b0460e3118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baby TODO list.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baby TODO list"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5978450f6dcf7c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f6752c81e4ad9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "513d397810bce2a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6155e5123972b507",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"type: learning\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91f22e5bc36b22db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "5ba94292f87f7709",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46bbdad3d5526dd",
+        "type": "tabs",
+        "dimension": 32.535885167464116,
+        "children": [
+          {
+            "id": "289c75f18af06a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Posts and quotes/Reflections/What is a professional?.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What is a professional?"
+            }
+          },
+          {
+            "id": "aadb5db66576ce73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fee952b976c8ebb2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c9f42ef2a73280ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "029e672e7ff9f634",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3a7b04f8fc48c660",
+        "type": "tabs",
+        "dimension": 67.46411483253588,
+        "children": [
+          {
+            "id": "bb885083c95f6891",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Baby TODO list.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Baby TODO list"
+            }
+          },
+          {
+            "id": "b0fd9f7fc73f447f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Baby TODO list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Baby TODO list"
+            }
+          },
+          {
+            "id": "981f880fff63ea2e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Learning/Productivity/Prácticas/Cornell example.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Cornell example"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "dbfolder:Create a new database table": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9a9863dd623355dd",
+  "lastOpenFiles": [
+    "Posts and quotes/Inspiration/Qué logros destacarías en tu carrera profesional?.md",
+    "Posts and quotes/Reflections/What is a professional?.md",
+    "Posts and quotes/Reflections",
+    "Posts and quotes",
+    "My CV.md",
+    "Posts and quotes/Inspiration/The True Importance of a Job.md",
+    "Learning/Productivity/Cómo la gente real procesa notas.md",
+    "Learning/Productivity/Prácticas/Cornell example.md",
+    "_templates/Recetas.md",
+    "_templates/Practice Template.md",
+    "_templates/Flashcards template.md",
+    "_templates/Cornell note.md",
+    "Learning/Productivity/Cómo estudiar libros IT de manera eficaz.md",
+    "Learning/Productivity/Cómo tomar notas de manera eficaz mientras estudias un libro.md",
+    "Learning/Productivity/Cómo tomar notas con la técnica Cornell.md",
+    "Learning/Productivity/Cómo hacer Mindmaps.md",
+    "_templates/Add default properties.md",
+    "_templates/Study Note Template.md",
+    "Software Engineering/Useful software table.md",
+    "Software Engineering/Infographs/System Design Blueprint.md",
+    "Software Engineering/Infographs/Software architecture styles.md",
+    "Software Engineering/Infographs/Explaining CI-CD to a kid.md",
+    "Software Engineering/How-tos/Changing from Docker Desktop to Docker Engine.md",
+    "Software Engineering/How-tos/Software to install in a newly formatted machine.md",
+    "TIL/obsidian/Cornell Technique.md",
+    "TIL/obsidian/Exporting vault to HTML and publish it.md",
+    "TIL/obsidian/Quartz.md",
+    "TIL/obsidian/Slides in Obsidian.md",
+    "Learning/Productivity/Prácticas",
+    "Learning/Obsidian/Mindmaps.canvas",
+    "_attachments/Pasted image 20241026092532.png",
+    "_attachments/Pasted image 20241026091339.png",
+    "_attachments",
+    "Posts and quotes/Inspiration",
+    "attachments/Slides Shot.png",
+    "attachments",
+    "TIL/obsidian/attachments/Pasted image 20241022230414.png",
+    "TIL/obsidian/attachments",
+    "TIL/resources/Pasted image 20241022230138.png",
+    "TIL/resources",
+    "TIL/concepts",
+    "TIL/obsidian",
+    "Excalidraw/Kafka retry mechanism (TODO).excalidraw.png",
+    "Excalidraw/Kafka retry mechanism (TODO).excalidraw.svg",
+    "Excalidraw/Clean architecture.excalidraw.png",
+    "Excalidraw/Clean architecture.excalidraw.svg",
+    "export/Slides/plugin/chalkboard/img/blackboard.png",
+    "Untitled.canvas"
+  ]
+}
